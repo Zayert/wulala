@@ -1,0 +1,167 @@
+body{
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+h1{
+    letter-spacing: 6px;
+    color: white;
+    font-size: 59.44px;
+    font-weight: 400;
+    font-style: italic;
+    position: absolute;
+    width: 647.49px;
+    height: 53.69px;
+    top: 45px;
+    left: 289px;
+    right: 1154px;
+    bottom: 923px;
+}
+.div1{
+    background-color: rgba(130, 191, 236, 0.3);
+    border: 6px solid #69bbec;
+    border-radius: 10px;
+    width: 920px;
+    height: 663px;
+    position: absolute;
+    top: 209px;
+    bottom: 208px;
+    left: 511px;
+    right:489px;
+    margin-right: 60px;
+}
+.div2{
+    width: 169px;
+    height: 203px;    
+    position:absolute;
+    top: 293px;
+    bottom: 5846px;
+    left: 1161px;
+    right: 590px;
+}
+form{
+    position: absolute;
+    font-size: 23.33px;
+    width: 843.9px;
+    height: 546.9px;
+    top: 52px;
+    bottom: 24px;
+    left: 65px;
+    right: 11px;
+}
+label{
+    text-shadow: 3px 3px 7px black;
+    line-height: 92px;
+}
+.input1{
+    background-color: white;
+    border-color: white;
+    border-radius: 50px;
+    width: 151px;
+    height: 41px;
+}
+.input2{
+    background-color: white;
+    border-color: white;
+    border-radius: 50px;
+    width: 151px;
+    height: 41px;
+}
+.input3{
+    background-color: white;
+    border-color: white;
+    border-radius: 50px;
+    width: 151px;
+    height: 41px;
+}
+.input4{
+    background-color: white;
+    border-color: white;
+    border-radius: 50px;
+    width: 151px;
+    height: 41px;
+}
+.input5{
+    background-color: white;
+    border-color: white;
+    border-radius: 20px;
+    width: 410px;
+    height: 41px;
+}
+.input6{
+    background-color: white;
+    border-color: white;
+    border: none;
+    border-radius: 20px;
+    width: 781px;
+    height: 109px;
+
+}
+.label1{
+    position: absolute;
+    width: 23.33px;
+    font-size: 23.33px;
+    line-height: 2em;
+    right: 185px;
+    top: 84px;
+}
+.select1{
+    border: transparent;
+    width: 304px;
+    height: 41px;
+    border-radius: 20px;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background: url(下拉箭头.png) no-repeat scroll 1em center transparent;
+}
+.select2{
+    border: transparent;
+    width: 304px;
+    height: 41px;
+    border-radius: 20px;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background: url(下拉箭头.png) no-repeat scroll 1em center transparent;
+}
+.select1 option{
+    font-size: 23.33px;
+    display: inline-block;
+    border: transparent;
+    border-radius: 20px;
+    width: 304px;
+    height: 41px;
+}
+.select2 option{
+    font-size: 23.33px;
+    display: inline-block;
+    border: transparent;
+    border-radius: 20px;
+    width: 304px;
+    height: 41px;
+}
+.label2{
+    display: block;
+    font-size: 23.33px;
+    width: 172px;
+    height:28.06px;
+    margin: 0px auto 10px auto;
+    line-height: 50px;
+}
+.input7{
+    position: absolute;
+    top: 603px;
+    right: 391px;
+    bottom: 24px;
+    left: 373px;
+    margin: 0px auto;
+    background: url(按钮.png);
+    border: none;
+    width: 152px;
+    height: 56px;
+    font-size: 29.76px;
+    color: white;
+    
+}
